@@ -1,2 +1,10 @@
-# TuHoc-Cpp-K7
-Nơi lưu trữ các bài tập code C++ đầu tay của yriva858-dev phục vụ học tập ngành CNTT
+# 🌊 Chào mừng đến với TuHoc-Cpp-K7
+
+<!-- Huy hiệu Badge màu Baby Blue -->
+![C++](https://shields.io)
+![Status](https://shields.io)
+
+### 🐱 Nơi lưu trữ các bài tập code C++ đầu tay của yriva858-dev
+
+---
+*Góc học tập công nghệ hướng tới tương lai mượt mà!*
