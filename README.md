@@ -3,7 +3,7 @@
 ![C++](https://shields.io)
 ![Status](https://shields.io)
 
-### 🐱 Nơi lưu trữ các bài tập code C++ đầu tay của yriva858-dev
+### 🐻 Nơi lưu trữ các bài tập code C++ đầu tay của yriva858-dev
 
 ---
-*Góc học tập công nghệ hướng tới tương lai mượt mà!*
+*Góc học tập công nghệ hướng tới tương lai mượt mạc!*
