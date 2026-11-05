@@ -1,6 +1,5 @@
 # 🌊 Chào mừng đến với TuHoc-Cpp-K7
 
-<!-- Huy hiệu Badge màu Baby Blue -->
 ![C++](https://shields.io)
 ![Status](https://shields.io)
 
